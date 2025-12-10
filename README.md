@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm passionate about turning raw data into clear, actionab
 
 * Python (Pandas, NumPy, Matplotlib, Seaborn)
 * SQL (PostgreSQL, MySQL)
-* Power BI & Tableau
+* R & Tableau
 * Excel (Advanced)
 * Git & GitHub
 * Jupyter Notebook & VS Code
