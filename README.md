@@ -49,8 +49,8 @@ Interactive dashboard with KPIs, trend lines, and drilldowns.
 
 ## 🤝 Connect With Me
 
-* **Email:** [mahsa.fadaei@example.com](mailto:mahsa.fadaei@example.com) *(change it later)*
-* **LinkedIn:** Add your link here
+* **Email:** [mahsafdei@gmail.com](mailto:mahsafdei@gmail.com)
+* **LinkedIn:** [www.linkedin.com/in/mahsa-fadaei-980a55294](www.linkedin.com/in/mahsa-fadaei-980a55294)
 
 ---
 
