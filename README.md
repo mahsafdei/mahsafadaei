@@ -1,6 +1,6 @@
 # Hi, I'm Mahsa Fadaei 👋
 
-###  Data Analyst | Python • SQL • Power BI • Tableau
+###  Data Analyst | Python • SQL • R • Tableau
 
 Welcome to my GitHub! I'm passionate about turning raw data into clear, actionable insights. I enjoy data cleaning, exploratory analysis, dashboards, and building reproducible data projects.
 
