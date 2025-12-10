@@ -31,12 +31,6 @@ A full end-to-end project: cleaning, EDA, visualization, business insights.
 Using K-Means to segment customers and identify marketing opportunities.
 **Tech:** Python, Scikit-learn.
 
-###  **3. Power BI Dashboard**
-
-Interactive dashboard with KPIs, trend lines, and drilldowns.
-
-> *Links to be added when projects are uploaded.*
-
 ---
 
 ##  Connect With Me
