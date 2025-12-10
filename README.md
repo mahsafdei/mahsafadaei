@@ -39,14 +39,6 @@ Interactive dashboard with KPIs, trend lines, and drilldowns.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahsaFadaei\&show_icons=true\&theme=calm)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahsaFadaei\&layout=compact\&theme=calm)
-
----
-
 ##  Connect With Me
 
 * **Email:** [mahsafdei@gmail.com](mailto:mahsafdei@gmail.com)
